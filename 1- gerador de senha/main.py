@@ -12,7 +12,7 @@ while len(senha)  <  tamanho:
     rand = random.choice(caracteres)
     senha += rand
 
-print(f'Sua senha é: {senha}')
+print(f'Sua senha gerada é: {senha}')
 
 
 
